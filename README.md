@@ -1,13 +1,6 @@
-# ai4eng-udea-2024-2
+Participantes
+Sneyder Buitrago González - 1007412020 (Ingeniería de Sistemas)
+Laura Cristina Montoya Rodríguez - 1038064227 (Ingeniería industrial)
+Samuel David Montoya Cano - 1001137973 (Ingeniería de sistemas)
 
-Samuel David Montoya Cano
-CC: 1001137973
-Ingenieria de Sistemas
-
-Laura Cristina Montoya Rodríguez 
-CC: 1038064227
-Ingeniería industrial -virtual
-
-Sneyder Buitrago González 
-CC: 1007412020 
-Ingenieria de Sistemas
+Enlace entrega 2: https://www.youtube.com/watch?v=l7KOrUjTX4k

@@ -1,4 +1,5 @@
 Participantes
+
 Sneyder Buitrago González - 1007412020 (Ingeniería de Sistemas)
 
 Laura Cristina Montoya Rodríguez - 1038064227 (Ingeniería industrial)
